@@ -1,0 +1,16 @@
+# Fichiers système macOS
+.DS_Store
+
+# Dossier de modules Node.js
+node_modules/
+
+# Fichiers de configuration locaux et secrets
+.env
+.env.local
+
+# Fichiers de build
+dist/
+build/
+
+# Logs
+*.log
